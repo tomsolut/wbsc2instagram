@@ -1,0 +1,189 @@
+[
+  {
+    "position": "1",
+    "team_name": "Germany",
+    "team_ioc": "GER",
+    "table_number": 1,
+    "round": "Second Round",
+    "group": "Group E",
+    "group_full_name": "Group E",
+    "statistics": {
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pct": 1.0,
+      "gb": 0
+    },
+    "scraped_at": "2025-07-25T03:03:10.486859"
+  },
+  {
+    "position": "2",
+    "team_name": "Great Britain",
+    "team_ioc": "GBR",
+    "table_number": 1,
+    "round": "Second Round",
+    "group": "Group E",
+    "group_full_name": "Group E",
+    "statistics": {
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pct": 1.0,
+      "gb": 0
+    },
+    "scraped_at": "2025-07-25T03:03:10.486958"
+  },
+  {
+    "position": "3",
+    "team_name": "Austria",
+    "team_ioc": "AUT",
+    "table_number": 1,
+    "round": "Second Round",
+    "group": "Group E",
+    "group_full_name": "Group E",
+    "statistics": {
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pct": 1.0,
+      "gb": 0
+    },
+    "scraped_at": "2025-07-25T03:03:10.487029"
+  },
+  {
+    "position": "4",
+    "team_name": "Israel",
+    "team_ioc": "ISR",
+    "table_number": 1,
+    "round": "Second Round",
+    "group": "Group E",
+    "group_full_name": "Group E",
+    "statistics": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0,
+      "pct": 0.0,
+      "gb": 1.5
+    },
+    "scraped_at": "2025-07-25T03:03:10.487098"
+  },
+  {
+    "position": "5",
+    "team_name": "France",
+    "team_ioc": "FRA",
+    "table_number": 1,
+    "round": "Second Round",
+    "group": "Group E",
+    "group_full_name": "Group E",
+    "statistics": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pct": 0.0,
+      "gb": 1
+    },
+    "scraped_at": "2025-07-25T03:03:10.487163"
+  },
+  {
+    "position": "1",
+    "team_name": "Czechia",
+    "team_ioc": "CZE",
+    "table_number": 2,
+    "round": "Second Round",
+    "group": "Group Z",
+    "group_full_name": "Group Z",
+    "statistics": {
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pct": 1.0,
+      "gb": 0
+    },
+    "scraped_at": "2025-07-25T03:03:10.487306"
+  },
+  {
+    "position": "1",
+    "team_name": "Italy",
+    "team_ioc": "ITA",
+    "table_number": 2,
+    "round": "Second Round",
+    "group": "Group Z",
+    "group_full_name": "Group Z",
+    "statistics": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pct": 0.0,
+      "gb": 1
+    },
+    "scraped_at": "2025-07-25T03:03:10.487388"
+  },
+  {
+    "position": "3",
+    "team_name": "Ireland",
+    "team_ioc": "IRL",
+    "table_number": 2,
+    "round": "Second Round",
+    "group": "Group Z",
+    "group_full_name": "Group Z",
+    "statistics": {
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pct": 1.0,
+      "gb": 0
+    },
+    "scraped_at": "2025-07-25T03:03:10.487468"
+  },
+  {
+    "position": "4",
+    "team_name": "Netherlands",
+    "team_ioc": "NED",
+    "table_number": 2,
+    "round": "Second Round",
+    "group": "Group Z",
+    "group_full_name": "Group Z",
+    "statistics": {
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pct": 1.0,
+      "gb": 0
+    },
+    "scraped_at": "2025-07-25T03:03:10.487546"
+  },
+  {
+    "position": "5",
+    "team_name": "Spain",
+    "team_ioc": "ESP",
+    "table_number": 2,
+    "round": "Second Round",
+    "group": "Group Z",
+    "group_full_name": "Group Z",
+    "statistics": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pct": 0.0,
+      "gb": 1
+    },
+    "scraped_at": "2025-07-25T03:03:10.487621"
+  },
+  {
+    "position": "6",
+    "team_name": "Ukraine",
+    "team_ioc": "UKR",
+    "table_number": 2,
+    "round": "Second Round",
+    "group": "Group Z",
+    "group_full_name": "Group Z",
+    "statistics": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pct": 0.0,
+      "gb": 1
+    },
+    "scraped_at": "2025-07-25T03:03:10.487697"
+  }
+]

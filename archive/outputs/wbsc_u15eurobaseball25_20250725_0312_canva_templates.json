@@ -1,0 +1,157 @@
+{
+  "tournament_info": {
+    "base_url": "https://www.wbsceurope.org/en/events/u15eurobaseball25",
+    "tournament_slug": "u15eurobaseball25",
+    "tournament_name": "U15Eurobaseball25",
+    "year": 2025
+  },
+  "generated_at": "2025-07-25T03:21:49.719264",
+  "total_templates": 3,
+  "templates": [
+    {
+      "template_id": "template_001",
+      "post_type": "round_standings",
+      "canva_data": {
+        "tournament_name": "U15Eurobaseball25",
+        "tournament_year": 2025,
+        "post_type": "round_standings",
+        "hashtags": "",
+        "background_color": "#059669",
+        "accent_color": "#34D399",
+        "round_name": "Round robin",
+        "round_description": "Second Round - Playoff Phase",
+        "standings_text": "📊 Group A:\n🥇 1. NED Netherlands (3-0)\n🥈 2. GER Germany (2-1)\n🥉 3. FRA France (1-2)\n 4. BEL Belgium (0-3)\n\n📊 Group B:\n🥇 1. ITA Italy (3-0)\n🥈 2. CZE Czechia (2-1)\n🥉 3. GBR Great Britain (1-2)\n 4. HUN Hungary (0-3)\n",
+        "groups_count": 2,
+        "total_teams": 8,
+        "top_teams": [
+          {
+            "position": "1",
+            "team_name": "Netherlands",
+            "team_ioc": "NED",
+            "group": "Group A",
+            "wins": 3,
+            "losses": 0,
+            "pct": 1.0
+          },
+          {
+            "position": "2",
+            "team_name": "Germany",
+            "team_ioc": "GER",
+            "group": "Group A",
+            "wins": 2,
+            "losses": 1,
+            "pct": 0.667
+          },
+          {
+            "position": "3",
+            "team_name": "France",
+            "team_ioc": "FRA",
+            "group": "Group A",
+            "wins": 1,
+            "losses": 2,
+            "pct": 0.333
+          },
+          {
+            "position": "1",
+            "team_name": "Italy",
+            "team_ioc": "ITA",
+            "group": "Group B",
+            "wins": 3,
+            "losses": 0,
+            "pct": 1.0
+          },
+          {
+            "position": "2",
+            "team_name": "Czechia",
+            "team_ioc": "CZE",
+            "group": "Group B",
+            "wins": 2,
+            "losses": 1,
+            "pct": 0.667
+          },
+          {
+            "position": "3",
+            "team_name": "Great Britain",
+            "team_ioc": "GBR",
+            "group": "Group B",
+            "wins": 1,
+            "losses": 2,
+            "pct": 0.333
+          }
+        ],
+        "round_emoji": "🔄"
+      },
+      "instagram_caption": "⚡ ROUND ROBIN STANDINGS ⚡\n\nSecond Round - Playoff Phase\n\n📊 Group A:\n🥇 1. NED Netherlands (3-0)\n🥈 2. GER Germany (2-1)\n🥉 3. FRA France (1-2)\n 4. BEL Belgium (0-3)\n\n📊 Group B:\n🥇 1. ITA Italy (3-0)\n🥈 2. CZE Czechia (2-1)\n🥉 3. GBR Great Britain (1-2)\n 4. HUN Hungary (0-3)\n\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #RoundrobinStandings #EuropeanChampionship #Softball2025",
+      "template_category": "Tournament Standings"
+    },
+    {
+      "template_id": "template_002",
+      "post_type": "round_standings",
+      "canva_data": {
+        "tournament_name": "U15Eurobaseball25",
+        "tournament_year": 2025,
+        "post_type": "round_standings",
+        "hashtags": "",
+        "background_color": "#059669",
+        "accent_color": "#34D399",
+        "round_name": "Relegation round",
+        "round_description": "Second Round - Playoff Phase",
+        "standings_text": "📊 Relegation round:\n🥇 1. GBR Great Britain (3-0)\n🥈 2. FRA France (2-1)\n🥉 3. BEL Belgium (1-2)\n 4. HUN Hungary (0-3)\n",
+        "groups_count": 1,
+        "total_teams": 4,
+        "top_teams": [
+          {
+            "position": "1",
+            "team_name": "Great Britain",
+            "team_ioc": "GBR",
+            "group": "Relegation round",
+            "wins": 3,
+            "losses": 0,
+            "pct": 1.0
+          },
+          {
+            "position": "2",
+            "team_name": "France",
+            "team_ioc": "FRA",
+            "group": "Relegation round",
+            "wins": 2,
+            "losses": 1,
+            "pct": 0.667
+          },
+          {
+            "position": "3",
+            "team_name": "Belgium",
+            "team_ioc": "BEL",
+            "group": "Relegation round",
+            "wins": 1,
+            "losses": 2,
+            "pct": 0.333
+          }
+        ],
+        "round_emoji": "⬇️"
+      },
+      "instagram_caption": "⚡ RELEGATION ROUND STANDINGS ⚡\n\nSecond Round - Playoff Phase\n\n📊 Relegation round:\n🥇 1. GBR Great Britain (3-0)\n🥈 2. FRA France (2-1)\n🥉 3. BEL Belgium (1-2)\n 4. HUN Hungary (0-3)\n\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #RelegationroundStandings #EuropeanChampionship #Softball2025",
+      "template_category": "Tournament Standings"
+    },
+    {
+      "template_id": "template_003",
+      "post_type": "advanced_tournament_summary",
+      "canva_data": {
+        "tournament_name": "U15Eurobaseball25",
+        "tournament_year": 2025,
+        "post_type": "advanced_tournament_summary",
+        "hashtags": "",
+        "background_color": "#DC2626",
+        "accent_color": "#F87171",
+        "total_games": 20,
+        "completed_games": 20,
+        "unique_teams": 8,
+        "completion_percentage": 100.0,
+        "summary_title": "Tournament Update",
+        "summary_subtitle": "Latest statistics and highlights"
+      },
+      "instagram_caption": "🎯 TOURNAMENT SPOTLIGHT 🎯\n\n🔥 Round robin - Undefeated: NED Netherlands, ITA Italy\n🔥 Relegation round - Undefeated: GBR Great Britain\n\n📊 Tournament Overview:\n⚾ Total Games: 20\n✅ Completed: 20\n🏆 Teams: 8\n🚀 Rounds: 2\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #TournamentUpdate #EuropeanChampionship #Softball2025",
+      "template_category": "Tournament Summary"
+    }
+  ]
+}

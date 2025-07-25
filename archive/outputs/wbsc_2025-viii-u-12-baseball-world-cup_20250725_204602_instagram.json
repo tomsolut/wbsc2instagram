@@ -1,0 +1,445 @@
+{
+  "tournament": {},
+  "generated_at": "2025-07-25T20:46:02.462112",
+  "total_posts": 4,
+  "posts": [
+    {
+      "type": "enhanced_game_result",
+      "game_data": {
+        "game_id": 170274,
+        "game_number": 1,
+        "game_code": "",
+        "date": "2025-07-25",
+        "start_time": "2025-07-25 10:30:00",
+        "venue": "ASPAC Youth",
+        "home_team": "Mexico",
+        "away_team": "Australia",
+        "home_ioc": "MEX",
+        "away_ioc": "AUS",
+        "home_runs": 10,
+        "away_runs": 0,
+        "home_hits": 12,
+        "away_hits": 0,
+        "home_errors": 0,
+        "away_errors": 2,
+        "innings": {
+          "home": [
+            3,
+            0,
+            2,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "away": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "status": "F",
+        "round": "0",
+        "group": "0",
+        "umpires": {
+          "umpires": [],
+          "scorers": [],
+          "technical_commissioners": []
+        },
+        "tournament": "",
+        "scraped_at": "2025-07-25T20:46:00.613547"
+      },
+      "margin": 10,
+      "post_caption": "🥎 FINAL RESULT 🥎\n\nAustralia 0 - 10 Mexico\n\n🏆 Mexico wins! MEX\n💥 Dominant performance!\n\n📍 ASPAC Youth\n📅 2025-07-25\n🎯 0\n\n#SoftballEurope #U18Womens #WBSC #SoftballResults #EuropeanChampionship #Softball2025",
+      "template_data": {
+        "winner_team": "Mexico",
+        "winner_score": 10,
+        "winner_flag": "MEX",
+        "loser_team": "Australia",
+        "loser_score": 0,
+        "margin": 10,
+        "margin_text": "💥 Dominant performance!",
+        "venue": "ASPAC Youth",
+        "date": "2025-07-25",
+        "round_info": "0"
+      }
+    },
+    {
+      "type": "enhanced_game_result",
+      "game_data": {
+        "game_id": 170278,
+        "game_number": 2,
+        "game_code": "",
+        "date": "2025-07-25",
+        "start_time": "2025-07-25 10:30:00",
+        "venue": "ASPAC B",
+        "home_team": "Czechia",
+        "away_team": "Dominican Republic",
+        "home_ioc": "CZE",
+        "away_ioc": "DOM",
+        "home_runs": 8,
+        "away_runs": 14,
+        "home_hits": 10,
+        "away_hits": 15,
+        "home_errors": 1,
+        "away_errors": 1,
+        "innings": {
+          "home": [
+            3,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "away": [
+            0,
+            1,
+            5,
+            2,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "status": "F",
+        "round": "0",
+        "group": "0",
+        "umpires": {
+          "umpires": [],
+          "scorers": [],
+          "technical_commissioners": []
+        },
+        "tournament": "",
+        "scraped_at": "2025-07-25T20:46:00.613579"
+      },
+      "margin": 6,
+      "post_caption": "🥎 FINAL RESULT 🥎\n\nDominican Republic 14 - 8 Czechia\n\n🏆 Dominican Republic wins! DOM\n🔥 Strong victory!\n\n📍 ASPAC B\n📅 2025-07-25\n🎯 0\n\n#SoftballEurope #U18Womens #WBSC #SoftballResults #EuropeanChampionship #Softball2025",
+      "template_data": {
+        "winner_team": "Dominican Republic",
+        "winner_score": 14,
+        "winner_flag": "DOM",
+        "loser_team": "Czechia",
+        "loser_score": 8,
+        "margin": 6,
+        "margin_text": "🔥 Strong victory!",
+        "venue": "ASPAC B",
+        "date": "2025-07-25",
+        "round_info": "0"
+      }
+    },
+    {
+      "type": "round_standings",
+      "round_name": "Opening Round",
+      "round_description": "Opening Round - Pool Play",
+      "groups_count": 2,
+      "total_teams": 12,
+      "post_caption": "🚀 OPENING ROUND STANDINGS 🚀\n\nOpening Round - Pool Play\n\n📊 Group A:\n🥇 1. JPN Japan (1-0)\n🥇 1. MEX Mexico (1-0)\n🥇 1. TPE Chinese Taipei (1-0)\n 4. AUS Australia (0-1)\n\n📊 Group B:\n🥇 1. DOM Dominican Republic (1-0)\n🥇 1. KOR Korea (1-0)\n🥇 1. USA United States of America (1-0)\n 4. CZE Czechia (0-1)\n\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #OpeningRoundStandings #EuropeanChampionship #Softball2025",
+      "template_data": {
+        "round_name": "Opening Round",
+        "round_description": "Opening Round - Pool Play",
+        "standings_text": "📊 Group A:\n🥇 1. JPN Japan (1-0)\n🥇 1. MEX Mexico (1-0)\n🥇 1. TPE Chinese Taipei (1-0)\n 4. AUS Australia (0-1)\n\n📊 Group B:\n🥇 1. DOM Dominican Republic (1-0)\n🥇 1. KOR Korea (1-0)\n🥇 1. USA United States of America (1-0)\n 4. CZE Czechia (0-1)\n",
+        "groups_data": [
+          [
+            "Group A",
+            [
+              {
+                "position": "1",
+                "team_name": "Japan",
+                "team_ioc": "JPN",
+                "table_number": 1,
+                "round": "Opening Round",
+                "group": "Group A",
+                "group_full_name": "Group A",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T20:46:00.955559"
+              },
+              {
+                "position": "1",
+                "team_name": "Mexico",
+                "team_ioc": "MEX",
+                "table_number": 1,
+                "round": "Opening Round",
+                "group": "Group A",
+                "group_full_name": "Group A",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T20:46:00.955602"
+              },
+              {
+                "position": "1",
+                "team_name": "Chinese Taipei",
+                "team_ioc": "TPE",
+                "table_number": 1,
+                "round": "Opening Round",
+                "group": "Group A",
+                "group_full_name": "Group A",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T20:46:00.955635"
+              },
+              {
+                "position": "4",
+                "team_name": "Australia",
+                "team_ioc": "AUS",
+                "table_number": 1,
+                "round": "Opening Round",
+                "group": "Group A",
+                "group_full_name": "Group A",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T20:46:00.955671"
+              },
+              {
+                "position": "4",
+                "team_name": "Cuba",
+                "team_ioc": "CUB",
+                "table_number": 1,
+                "round": "Opening Round",
+                "group": "Group A",
+                "group_full_name": "Group A",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T20:46:00.955705"
+              },
+              {
+                "position": "4",
+                "team_name": "Germany",
+                "team_ioc": "GER",
+                "table_number": 1,
+                "round": "Opening Round",
+                "group": "Group A",
+                "group_full_name": "Group A",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T20:46:00.955733"
+              }
+            ]
+          ],
+          [
+            "Group B",
+            [
+              {
+                "position": "1",
+                "team_name": "Dominican Republic",
+                "team_ioc": "DOM",
+                "table_number": 2,
+                "round": "Opening Round",
+                "group": "Group B",
+                "group_full_name": "Group B",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T20:46:00.955794"
+              },
+              {
+                "position": "1",
+                "team_name": "Korea",
+                "team_ioc": "KOR",
+                "table_number": 2,
+                "round": "Opening Round",
+                "group": "Group B",
+                "group_full_name": "Group B",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T20:46:00.955826"
+              },
+              {
+                "position": "1",
+                "team_name": "United States of America",
+                "team_ioc": "USA",
+                "table_number": 2,
+                "round": "Opening Round",
+                "group": "Group B",
+                "group_full_name": "Group B",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T20:46:00.955866"
+              },
+              {
+                "position": "4",
+                "team_name": "Czechia",
+                "team_ioc": "CZE",
+                "table_number": 2,
+                "round": "Opening Round",
+                "group": "Group B",
+                "group_full_name": "Group B",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T20:46:00.955905"
+              },
+              {
+                "position": "4",
+                "team_name": "Panama",
+                "team_ioc": "PAN",
+                "table_number": 2,
+                "round": "Opening Round",
+                "group": "Group B",
+                "group_full_name": "Group B",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T20:46:00.955944"
+              },
+              {
+                "position": "4",
+                "team_name": "South Africa",
+                "team_ioc": "RSA",
+                "table_number": 2,
+                "round": "Opening Round",
+                "group": "Group B",
+                "group_full_name": "Group B",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T20:46:00.955984"
+              }
+            ]
+          ]
+        ],
+        "tournament_name": "U-18 Women's Softball European Championship 2025"
+      }
+    },
+    {
+      "type": "advanced_tournament_summary",
+      "post_caption": "🎯 TOURNAMENT SPOTLIGHT 🎯\n\n🔥 Opening Round - Undefeated: JPN Japan, MEX Mexico, TPE Chinese Taipei\n\n📊 Tournament Overview:\n⚾ Total Games: 50\n✅ Completed: 6\n🏆 Teams: 12\n🚀 Rounds: 1\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #TournamentUpdate #EuropeanChampionship #Softball2025",
+      "template_data": {
+        "round_leaders": {
+          "Opening Round": {
+            "undefeated": [
+              "JPN Japan",
+              "MEX Mexico",
+              "TPE Chinese Taipei"
+            ],
+            "top_performers": []
+          }
+        },
+        "tournament_stats": {
+          "total_games": 50,
+          "completed_games": 6,
+          "rounds": [
+            "Opening Round"
+          ],
+          "total_standings_entries": 12,
+          "unique_teams": 12
+        },
+        "tournament_name": "U-18 Women's Softball European Championship 2025"
+      }
+    }
+  ]
+}

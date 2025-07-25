@@ -1,0 +1,917 @@
+{
+  "generated_at": "2025-07-25T03:05:02.090051",
+  "total_posts": 8,
+  "content_breakdown": {
+    "enhanced_game_results": 4,
+    "round_standings": 2,
+    "round_progression": 1,
+    "advanced_summary": 1
+  },
+  "automation_features": [
+    "Round-based standings differentiation",
+    "Tournament progression tracking",
+    "Enhanced game result analysis",
+    "Advanced performance insights",
+    "Comprehensive tournament overview"
+  ],
+  "posts": [
+    {
+      "type": "enhanced_game_result",
+      "game_data": {
+        "game_id": 173468,
+        "game_number": 41,
+        "game_code": "Y14",
+        "date": "2025-07-24",
+        "start_time": "2025-07-24 09:00:00",
+        "venue": "Campus Arrosadia UPNA, Navarra",
+        "home_team": "Austria",
+        "away_team": "Ukraine",
+        "home_ioc": "AUT",
+        "away_ioc": "UKR",
+        "home_runs": 2,
+        "away_runs": 10,
+        "home_hits": 5,
+        "away_hits": 12,
+        "home_errors": 1,
+        "away_errors": 1,
+        "innings": {
+          "home": [
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "away": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            7,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "status": "F",
+        "round": "0",
+        "group": "0",
+        "umpires": {
+          "umpires": [],
+          "scorers": [],
+          "technical_commissioners": []
+        },
+        "tournament": "",
+        "scraped_at": "2025-07-25T03:04:58.344752"
+      },
+      "margin": 8,
+      "post_caption": "🥎 FINAL RESULT 🥎\n\nUkraine 10 - 2 Austria\n\n🏆 Ukraine wins! UKR\n🔥 Strong victory!\n\n📍 Campus Arrosadia UPNA, Navarra\n📅 2025-07-24\n🎯 0\n\n#SoftballEurope #U18Womens #WBSC #SoftballResults #EuropeanChampionship #Softball2025",
+      "template_data": {
+        "winner_team": "Ukraine",
+        "winner_score": 10,
+        "winner_flag": "UKR",
+        "loser_team": "Austria",
+        "loser_score": 2,
+        "margin": 8,
+        "margin_text": "🔥 Strong victory!",
+        "venue": "Campus Arrosadia UPNA, Navarra",
+        "date": "2025-07-24",
+        "round_info": "0"
+      }
+    },
+    {
+      "type": "enhanced_game_result",
+      "game_data": {
+        "game_id": 173469,
+        "game_number": 42,
+        "game_code": "Y15",
+        "date": "2025-07-24",
+        "start_time": "2025-07-24 09:00:00",
+        "venue": "Campo de Béisbol de Irabia",
+        "home_team": "Germany",
+        "away_team": "France",
+        "home_ioc": "GER",
+        "away_ioc": "FRA",
+        "home_runs": 11,
+        "away_runs": 10,
+        "home_hits": 11,
+        "away_hits": 14,
+        "home_errors": 3,
+        "away_errors": 3,
+        "innings": {
+          "home": [
+            5,
+            1,
+            0,
+            2,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "away": [
+            4,
+            0,
+            2,
+            1,
+            2,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "status": "F",
+        "round": "0",
+        "group": "0",
+        "umpires": {
+          "umpires": [],
+          "scorers": [],
+          "technical_commissioners": []
+        },
+        "tournament": "",
+        "scraped_at": "2025-07-25T03:04:58.344762"
+      },
+      "margin": 1,
+      "post_caption": "🥎 FINAL RESULT 🥎\n\nFrance 10 - 11 Germany\n\n🏆 Germany wins! GER\n⚡ Close game!\n\n📍 Campo de Béisbol de Irabia\n📅 2025-07-24\n🎯 0\n\n#SoftballEurope #U18Womens #WBSC #SoftballResults #EuropeanChampionship #Softball2025",
+      "template_data": {
+        "winner_team": "Germany",
+        "winner_score": 11,
+        "winner_flag": "GER",
+        "loser_team": "France",
+        "loser_score": 10,
+        "margin": 1,
+        "margin_text": "⚡ Close game!",
+        "venue": "Campo de Béisbol de Irabia",
+        "date": "2025-07-24",
+        "round_info": "0"
+      }
+    },
+    {
+      "type": "enhanced_game_result",
+      "game_data": {
+        "game_id": 173470,
+        "game_number": 43,
+        "game_code": "F09",
+        "date": "2025-07-24",
+        "start_time": "2025-07-24 11:30:00",
+        "venue": "Campus Arrosadia UPNA, Navarra",
+        "home_team": "Croatia",
+        "away_team": "Poland",
+        "home_ioc": "CRO",
+        "away_ioc": "POL",
+        "home_runs": 2,
+        "away_runs": 9,
+        "home_hits": 4,
+        "away_hits": 6,
+        "home_errors": 1,
+        "away_errors": 1,
+        "innings": {
+          "home": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "away": [
+            2,
+            2,
+            0,
+            3,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "status": "F",
+        "round": "0",
+        "group": "0",
+        "umpires": {
+          "umpires": [],
+          "scorers": [],
+          "technical_commissioners": []
+        },
+        "tournament": "",
+        "scraped_at": "2025-07-25T03:04:58.344771"
+      },
+      "margin": 7,
+      "post_caption": "🥎 FINAL RESULT 🥎\n\nPoland 9 - 2 Croatia\n\n🏆 Poland wins! POL\n🔥 Strong victory!\n\n📍 Campus Arrosadia UPNA, Navarra\n📅 2025-07-24\n🎯 0\n\n#SoftballEurope #U18Womens #WBSC #SoftballResults #EuropeanChampionship #Softball2025",
+      "template_data": {
+        "winner_team": "Poland",
+        "winner_score": 9,
+        "winner_flag": "POL",
+        "loser_team": "Croatia",
+        "loser_score": 2,
+        "margin": 7,
+        "margin_text": "🔥 Strong victory!",
+        "venue": "Campus Arrosadia UPNA, Navarra",
+        "date": "2025-07-24",
+        "round_info": "0"
+      }
+    },
+    {
+      "type": "enhanced_game_result",
+      "game_data": {
+        "game_id": 173471,
+        "game_number": 44,
+        "game_code": "F10",
+        "date": "2025-07-24",
+        "start_time": "2025-07-24 11:30:00",
+        "venue": "Campo de Béisbol de Irabia",
+        "home_team": "Belgium",
+        "away_team": "Sweden",
+        "home_ioc": "BEL",
+        "away_ioc": "SWE",
+        "home_runs": 13,
+        "away_runs": 11,
+        "home_hits": 8,
+        "away_hits": 7,
+        "home_errors": 0,
+        "away_errors": 6,
+        "innings": {
+          "home": [
+            4,
+            3,
+            5,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "away": [
+            0,
+            2,
+            2,
+            3,
+            1,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "status": "F",
+        "round": "0",
+        "group": "0",
+        "umpires": {
+          "umpires": [],
+          "scorers": [],
+          "technical_commissioners": []
+        },
+        "tournament": "",
+        "scraped_at": "2025-07-25T03:04:58.344781"
+      },
+      "margin": 2,
+      "post_caption": "🥎 FINAL RESULT 🥎\n\nSweden 11 - 13 Belgium\n\n🏆 Belgium wins! BEL\n\n\n📍 Campo de Béisbol de Irabia\n📅 2025-07-24\n🎯 0\n\n#SoftballEurope #U18Womens #WBSC #SoftballResults #EuropeanChampionship #Softball2025",
+      "template_data": {
+        "winner_team": "Belgium",
+        "winner_score": 13,
+        "winner_flag": "BEL",
+        "loser_team": "Sweden",
+        "loser_score": 11,
+        "margin": 2,
+        "margin_text": "",
+        "venue": "Campo de Béisbol de Irabia",
+        "date": "2025-07-24",
+        "round_info": "0"
+      }
+    },
+    {
+      "type": "round_standings",
+      "round_name": "Opening Round",
+      "round_description": "Opening Round - Pool Play",
+      "groups_count": 3,
+      "total_teams": 26,
+      "post_caption": "🚀 OPENING ROUND STANDINGS 🚀\n\nOpening Round - Pool Play\n\n📊 Group A:\n🥇 1. ESP Spain (2-0)\n🥈 2. POL Poland (1-1)\n🥉 3. SWE Sweden (0-2)\n\n📊 Group B:\n🥇 1. GER Germany (2-0)\n🥈 2. CRO Croatia (1-1)\n🥉 3. HUN Hungary (0-2)\n\n📊 Group C:\n🥇 1. AUT Austria (2-0)\n🥈 2. BEL Belgium (1-1)\n🥉 3. TUR Türkiye (0-2)\n\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #OpeningRoundStandings #EuropeanChampionship #Softball2025",
+      "template_data": {
+        "round_name": "Opening Round",
+        "round_description": "Opening Round - Pool Play",
+        "standings_text": "📊 Group A:\n🥇 1. ESP Spain (2-0)\n🥈 2. POL Poland (1-1)\n🥉 3. SWE Sweden (0-2)\n\n📊 Group B:\n🥇 1. GER Germany (2-0)\n🥈 2. CRO Croatia (1-1)\n🥉 3. HUN Hungary (0-2)\n\n📊 Group C:\n🥇 1. AUT Austria (2-0)\n🥈 2. BEL Belgium (1-1)\n🥉 3. TUR Türkiye (0-2)\n",
+        "groups_data": [
+          [
+            "Group A",
+            [
+              {
+                "position": "1",
+                "team_name": "Spain",
+                "team_ioc": "ESP",
+                "table_number": 1,
+                "round": "Opening Round",
+                "group": "Group A",
+                "group_full_name": "Group A",
+                "statistics": {
+                  "wins": 2,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T03:04:59.077014"
+              },
+              {
+                "position": "2",
+                "team_name": "Poland",
+                "team_ioc": "POL",
+                "table_number": 1,
+                "round": "Opening Round",
+                "group": "Group A",
+                "group_full_name": "Group A",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.5,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T03:04:59.077076"
+              },
+              {
+                "position": "3",
+                "team_name": "Sweden",
+                "team_ioc": "SWE",
+                "table_number": 1,
+                "round": "Opening Round",
+                "group": "Group A",
+                "group_full_name": "Group A",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 2,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 2
+                },
+                "scraped_at": "2025-07-25T03:04:59.077121"
+              }
+            ]
+          ],
+          [
+            "Group B",
+            [
+              {
+                "position": "1",
+                "team_name": "Germany",
+                "team_ioc": "GER",
+                "table_number": 2,
+                "round": "Opening Round",
+                "group": "Group B",
+                "group_full_name": "Group B",
+                "statistics": {
+                  "wins": 2,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T03:04:59.077200"
+              },
+              {
+                "position": "2",
+                "team_name": "Croatia",
+                "team_ioc": "CRO",
+                "table_number": 2,
+                "round": "Opening Round",
+                "group": "Group B",
+                "group_full_name": "Group B",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.5,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T03:04:59.077239"
+              },
+              {
+                "position": "3",
+                "team_name": "Hungary",
+                "team_ioc": "HUN",
+                "table_number": 2,
+                "round": "Opening Round",
+                "group": "Group B",
+                "group_full_name": "Group B",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 2,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 2
+                },
+                "scraped_at": "2025-07-25T03:04:59.077278"
+              }
+            ]
+          ],
+          [
+            "Group C",
+            [
+              {
+                "position": "1",
+                "team_name": "Austria",
+                "team_ioc": "AUT",
+                "table_number": 3,
+                "round": "Opening Round",
+                "group": "Group C",
+                "group_full_name": "Group C",
+                "statistics": {
+                  "wins": 2,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T03:04:59.077345"
+              },
+              {
+                "position": "2",
+                "team_name": "Belgium",
+                "team_ioc": "BEL",
+                "table_number": 3,
+                "round": "Opening Round",
+                "group": "Group C",
+                "group_full_name": "Group C",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.5,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T03:04:59.077381"
+              },
+              {
+                "position": "3",
+                "team_name": "Türkiye",
+                "team_ioc": "TUR",
+                "table_number": 3,
+                "round": "Opening Round",
+                "group": "Group C",
+                "group_full_name": "Group C",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 2,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 2
+                },
+                "scraped_at": "2025-07-25T03:04:59.077419"
+              }
+            ]
+          ]
+        ],
+        "tournament_name": "U-18 Women's Softball European Championship 2025"
+      }
+    },
+    {
+      "type": "round_standings",
+      "round_name": "Second Round",
+      "round_description": "Second Round - Playoff Phase",
+      "groups_count": 2,
+      "total_teams": 11,
+      "post_caption": "⚡ SECOND ROUND STANDINGS ⚡\n\nSecond Round - Playoff Phase\n\n📊 Group E:\n🥇 1. GER Germany (1-0)\n🥈 2. GBR Great Britain (1-0)\n🥉 3. AUT Austria (1-0)\n 4. ISR Israel (0-2)\n\n📊 Group Z:\n🥇 1. CZE Czechia (1-0)\n🥇 1. ITA Italy (0-1)\n🥉 3. IRL Ireland (1-0)\n 4. NED Netherlands (1-0)\n\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #SecondRoundStandings #EuropeanChampionship #Softball2025",
+      "template_data": {
+        "round_name": "Second Round",
+        "round_description": "Second Round - Playoff Phase",
+        "standings_text": "📊 Group E:\n🥇 1. GER Germany (1-0)\n🥈 2. GBR Great Britain (1-0)\n🥉 3. AUT Austria (1-0)\n 4. ISR Israel (0-2)\n\n📊 Group Z:\n🥇 1. CZE Czechia (1-0)\n🥇 1. ITA Italy (0-1)\n🥉 3. IRL Ireland (1-0)\n 4. NED Netherlands (1-0)\n",
+        "groups_data": [
+          [
+            "Group E",
+            [
+              {
+                "position": "1",
+                "team_name": "Germany",
+                "team_ioc": "GER",
+                "table_number": 1,
+                "round": "Second Round",
+                "group": "Group E",
+                "group_full_name": "Group E",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T03:05:00.587133"
+              },
+              {
+                "position": "2",
+                "team_name": "Great Britain",
+                "team_ioc": "GBR",
+                "table_number": 1,
+                "round": "Second Round",
+                "group": "Group E",
+                "group_full_name": "Group E",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T03:05:00.587242"
+              },
+              {
+                "position": "3",
+                "team_name": "Austria",
+                "team_ioc": "AUT",
+                "table_number": 1,
+                "round": "Second Round",
+                "group": "Group E",
+                "group_full_name": "Group E",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T03:05:00.587387"
+              },
+              {
+                "position": "4",
+                "team_name": "Israel",
+                "team_ioc": "ISR",
+                "table_number": 1,
+                "round": "Second Round",
+                "group": "Group E",
+                "group_full_name": "Group E",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 2,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 1.5
+                },
+                "scraped_at": "2025-07-25T03:05:00.587475"
+              },
+              {
+                "position": "5",
+                "team_name": "France",
+                "team_ioc": "FRA",
+                "table_number": 1,
+                "round": "Second Round",
+                "group": "Group E",
+                "group_full_name": "Group E",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T03:05:00.587539"
+              }
+            ]
+          ],
+          [
+            "Group Z",
+            [
+              {
+                "position": "1",
+                "team_name": "Czechia",
+                "team_ioc": "CZE",
+                "table_number": 2,
+                "round": "Second Round",
+                "group": "Group Z",
+                "group_full_name": "Group Z",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T03:05:00.587672"
+              },
+              {
+                "position": "1",
+                "team_name": "Italy",
+                "team_ioc": "ITA",
+                "table_number": 2,
+                "round": "Second Round",
+                "group": "Group Z",
+                "group_full_name": "Group Z",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T03:05:00.587729"
+              },
+              {
+                "position": "3",
+                "team_name": "Ireland",
+                "team_ioc": "IRL",
+                "table_number": 2,
+                "round": "Second Round",
+                "group": "Group Z",
+                "group_full_name": "Group Z",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T03:05:00.587783"
+              },
+              {
+                "position": "4",
+                "team_name": "Netherlands",
+                "team_ioc": "NED",
+                "table_number": 2,
+                "round": "Second Round",
+                "group": "Group Z",
+                "group_full_name": "Group Z",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T03:05:00.587841"
+              },
+              {
+                "position": "5",
+                "team_name": "Spain",
+                "team_ioc": "ESP",
+                "table_number": 2,
+                "round": "Second Round",
+                "group": "Group Z",
+                "group_full_name": "Group Z",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T03:05:00.587895"
+              },
+              {
+                "position": "6",
+                "team_name": "Ukraine",
+                "team_ioc": "UKR",
+                "table_number": 2,
+                "round": "Second Round",
+                "group": "Group Z",
+                "group_full_name": "Group Z",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T03:05:00.587952"
+              }
+            ]
+          ]
+        ],
+        "tournament_name": "U-18 Women's Softball European Championship 2025"
+      }
+    },
+    {
+      "type": "round_progression",
+      "progressed_teams_count": 11,
+      "post_caption": "⚡ TOURNAMENT PROGRESSION ⚡\n\nTeams advancing from Opening Round to Second Round:\n\n🎯 GER Germany\n   Opening: Group Y (2-3)\n   Second: Group E (1-0)\n\n🎯 GBR Great Britain\n   Opening: Group X (1-3)\n   Second: Group E (1-0)\n\n🎯 AUT Austria\n   Opening: Group Y (1-4)\n   Second: Group E (1-0)\n\n🎯 ISR Israel\n   Opening: Group X (0-4)\n   Second: Group E (0-2)\n\n🎯 FRA France\n   Opening: Group Y (1-4)\n   Second: Group E (0-1)\n\n🎯 CZE Czechia\n   Opening: Group X (4-0)\n   Second: Group Z (1-0)\n\n\n\n🚀 From pool play to playoffs!\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #TournamentProgression #Playoffs #EuropeanChampionship",
+      "template_data": {
+        "progressed_teams": [
+          {
+            "team_ioc": "GER",
+            "team_name": "Germany",
+            "opening_group": "Group Y",
+            "opening_record": "2-3",
+            "second_group": "Group E",
+            "second_record": "1-0"
+          },
+          {
+            "team_ioc": "GBR",
+            "team_name": "Great Britain",
+            "opening_group": "Group X",
+            "opening_record": "1-3",
+            "second_group": "Group E",
+            "second_record": "1-0"
+          },
+          {
+            "team_ioc": "AUT",
+            "team_name": "Austria",
+            "opening_group": "Group Y",
+            "opening_record": "1-4",
+            "second_group": "Group E",
+            "second_record": "1-0"
+          },
+          {
+            "team_ioc": "ISR",
+            "team_name": "Israel",
+            "opening_group": "Group X",
+            "opening_record": "0-4",
+            "second_group": "Group E",
+            "second_record": "0-2"
+          },
+          {
+            "team_ioc": "FRA",
+            "team_name": "France",
+            "opening_group": "Group Y",
+            "opening_record": "1-4",
+            "second_group": "Group E",
+            "second_record": "0-1"
+          },
+          {
+            "team_ioc": "CZE",
+            "team_name": "Czechia",
+            "opening_group": "Group X",
+            "opening_record": "4-0",
+            "second_group": "Group Z",
+            "second_record": "1-0"
+          },
+          {
+            "team_ioc": "ITA",
+            "team_name": "Italy",
+            "opening_group": "Group Y",
+            "opening_record": "5-0",
+            "second_group": "Group Z",
+            "second_record": "0-1"
+          },
+          {
+            "team_ioc": "IRL",
+            "team_name": "Ireland",
+            "opening_group": "Group Y",
+            "opening_record": "4-1",
+            "second_group": "Group Z",
+            "second_record": "1-0"
+          },
+          {
+            "team_ioc": "NED",
+            "team_name": "Netherlands",
+            "opening_group": "Group X",
+            "opening_record": "3-1",
+            "second_group": "Group Z",
+            "second_record": "1-0"
+          },
+          {
+            "team_ioc": "ESP",
+            "team_name": "Spain",
+            "opening_group": "Group X",
+            "opening_record": "2-2",
+            "second_group": "Group Z",
+            "second_record": "0-1"
+          },
+          {
+            "team_ioc": "UKR",
+            "team_name": "Ukraine",
+            "opening_group": "Group Y",
+            "opening_record": "2-3",
+            "second_group": "Group Z",
+            "second_record": "0-1"
+          }
+        ],
+        "tournament_name": "U-18 Women's Softball European Championship 2025"
+      }
+    },
+    {
+      "type": "advanced_tournament_summary",
+      "post_caption": "🎯 TOURNAMENT SPOTLIGHT 🎯\n\n🔥 Opening Round - Undefeated: ESP Spain, GER Germany, AUT Austria\n🔥 Second Round - Undefeated: GER Germany, GBR Great Britain, AUT Austria\n\n📊 Tournament Overview:\n⚾ Total Games: 63\n✅ Completed: 52\n🏆 Teams: 17\n🚀 Rounds: 2\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #TournamentUpdate #EuropeanChampionship #Softball2025",
+      "template_data": {
+        "round_leaders": {
+          "Opening Round": {
+            "undefeated": [
+              "ESP Spain",
+              "GER Germany",
+              "AUT Austria"
+            ],
+            "top_performers": [
+              "BEL Belgium",
+              "NED Netherlands",
+              "IRL Ireland"
+            ]
+          },
+          "Second Round": {
+            "undefeated": [
+              "GER Germany",
+              "GBR Great Britain",
+              "AUT Austria"
+            ],
+            "top_performers": []
+          }
+        },
+        "tournament_stats": {
+          "total_games": 63,
+          "completed_games": 52,
+          "rounds": [
+            "Opening Round",
+            "Second Round"
+          ],
+          "total_standings_entries": 37,
+          "unique_teams": 17
+        },
+        "tournament_name": "U-18 Women's Softball European Championship 2025"
+      }
+    }
+  ]
+}

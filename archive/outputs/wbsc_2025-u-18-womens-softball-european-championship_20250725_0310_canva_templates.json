@@ -1,0 +1,387 @@
+{
+  "tournament_info": {
+    "base_url": "https://www.wbsceurope.org/en/events/2025-u-18-womens-softball-european-championship",
+    "tournament_slug": "2025-u-18-womens-softball-european-championship",
+    "tournament_name": "2025 U 18 Womens Softball European Championship",
+    "year": "2025"
+  },
+  "generated_at": "2025-07-25T03:21:49.718389",
+  "total_templates": 8,
+  "templates": [
+    {
+      "template_id": "template_001",
+      "post_type": "enhanced_game_result",
+      "canva_data": {
+        "tournament_name": "2025 U 18 Womens Softball European Championship",
+        "tournament_year": "2025",
+        "post_type": "enhanced_game_result",
+        "hashtags": "",
+        "background_color": "#1E3A8A",
+        "accent_color": "#60A5FA",
+        "winner_team": "Ukraine",
+        "winner_score": 10,
+        "winner_flag": "UKR",
+        "loser_team": "Austria",
+        "loser_score": 2,
+        "final_score": "",
+        "score_margin": 8,
+        "margin_category": "dominant",
+        "venue": "Campus Arrosadia UPNA, Navarra",
+        "game_date": "2025-07-24",
+        "round_info": "0",
+        "game_emoji": "💥",
+        "home_team": "Austria",
+        "away_team": "Ukraine",
+        "home_runs": 2,
+        "away_runs": 10
+      },
+      "instagram_caption": "🥎 FINAL RESULT 🥎\n\nUkraine 10 - 2 Austria\n\n🏆 Ukraine wins! UKR\n🔥 Strong victory!\n\n📍 Campus Arrosadia UPNA, Navarra\n📅 2025-07-24\n🎯 0\n\n#SoftballEurope #U18Womens #WBSC #SoftballResults #EuropeanChampionship #Softball2025",
+      "template_category": "Game Results"
+    },
+    {
+      "template_id": "template_002",
+      "post_type": "enhanced_game_result",
+      "canva_data": {
+        "tournament_name": "2025 U 18 Womens Softball European Championship",
+        "tournament_year": "2025",
+        "post_type": "enhanced_game_result",
+        "hashtags": "",
+        "background_color": "#1E3A8A",
+        "accent_color": "#60A5FA",
+        "winner_team": "Germany",
+        "winner_score": 11,
+        "winner_flag": "GER",
+        "loser_team": "France",
+        "loser_score": 10,
+        "final_score": "",
+        "score_margin": 1,
+        "margin_category": "close",
+        "venue": "Campo de Béisbol de Irabia",
+        "game_date": "2025-07-24",
+        "round_info": "0",
+        "game_emoji": "⚡",
+        "home_team": "Germany",
+        "away_team": "France",
+        "home_runs": 11,
+        "away_runs": 10
+      },
+      "instagram_caption": "🥎 FINAL RESULT 🥎\n\nFrance 10 - 11 Germany\n\n🏆 Germany wins! GER\n⚡ Close game!\n\n📍 Campo de Béisbol de Irabia\n📅 2025-07-24\n🎯 0\n\n#SoftballEurope #U18Womens #WBSC #SoftballResults #EuropeanChampionship #Softball2025",
+      "template_category": "Game Results"
+    },
+    {
+      "template_id": "template_003",
+      "post_type": "enhanced_game_result",
+      "canva_data": {
+        "tournament_name": "2025 U 18 Womens Softball European Championship",
+        "tournament_year": "2025",
+        "post_type": "enhanced_game_result",
+        "hashtags": "",
+        "background_color": "#1E3A8A",
+        "accent_color": "#60A5FA",
+        "winner_team": "Poland",
+        "winner_score": 9,
+        "winner_flag": "POL",
+        "loser_team": "Croatia",
+        "loser_score": 2,
+        "final_score": "",
+        "score_margin": 7,
+        "margin_category": "comfortable",
+        "venue": "Campus Arrosadia UPNA, Navarra",
+        "game_date": "2025-07-24",
+        "round_info": "0",
+        "game_emoji": "💪",
+        "home_team": "Croatia",
+        "away_team": "Poland",
+        "home_runs": 2,
+        "away_runs": 9
+      },
+      "instagram_caption": "🥎 FINAL RESULT 🥎\n\nPoland 9 - 2 Croatia\n\n🏆 Poland wins! POL\n🔥 Strong victory!\n\n📍 Campus Arrosadia UPNA, Navarra\n📅 2025-07-24\n🎯 0\n\n#SoftballEurope #U18Womens #WBSC #SoftballResults #EuropeanChampionship #Softball2025",
+      "template_category": "Game Results"
+    },
+    {
+      "template_id": "template_004",
+      "post_type": "enhanced_game_result",
+      "canva_data": {
+        "tournament_name": "2025 U 18 Womens Softball European Championship",
+        "tournament_year": "2025",
+        "post_type": "enhanced_game_result",
+        "hashtags": "",
+        "background_color": "#1E3A8A",
+        "accent_color": "#60A5FA",
+        "winner_team": "Belgium",
+        "winner_score": 13,
+        "winner_flag": "BEL",
+        "loser_team": "Sweden",
+        "loser_score": 11,
+        "final_score": "",
+        "score_margin": 2,
+        "margin_category": "competitive",
+        "venue": "Campo de Béisbol de Irabia",
+        "game_date": "2025-07-24",
+        "round_info": "0",
+        "game_emoji": "🔥",
+        "home_team": "Belgium",
+        "away_team": "Sweden",
+        "home_runs": 13,
+        "away_runs": 11
+      },
+      "instagram_caption": "🥎 FINAL RESULT 🥎\n\nSweden 11 - 13 Belgium\n\n🏆 Belgium wins! BEL\n\n\n📍 Campo de Béisbol de Irabia\n📅 2025-07-24\n🎯 0\n\n#SoftballEurope #U18Womens #WBSC #SoftballResults #EuropeanChampionship #Softball2025",
+      "template_category": "Game Results"
+    },
+    {
+      "template_id": "template_005",
+      "post_type": "round_standings",
+      "canva_data": {
+        "tournament_name": "2025 U 18 Womens Softball European Championship",
+        "tournament_year": "2025",
+        "post_type": "round_standings",
+        "hashtags": "",
+        "background_color": "#059669",
+        "accent_color": "#34D399",
+        "round_name": "Opening Round",
+        "round_description": "Opening Round - Pool Play",
+        "standings_text": "📊 Group A:\n🥇 1. ESP Spain (2-0)\n🥈 2. POL Poland (1-1)\n🥉 3. SWE Sweden (0-2)\n\n📊 Group B:\n🥇 1. GER Germany (2-0)\n🥈 2. CRO Croatia (1-1)\n🥉 3. HUN Hungary (0-2)\n\n📊 Group C:\n🥇 1. AUT Austria (2-0)\n🥈 2. BEL Belgium (1-1)\n🥉 3. TUR Türkiye (0-2)\n",
+        "groups_count": 3,
+        "total_teams": 26,
+        "top_teams": [
+          {
+            "position": "1",
+            "team_name": "Spain",
+            "team_ioc": "ESP",
+            "group": "Group A",
+            "wins": 2,
+            "losses": 0,
+            "pct": 1.0
+          },
+          {
+            "position": "2",
+            "team_name": "Poland",
+            "team_ioc": "POL",
+            "group": "Group A",
+            "wins": 1,
+            "losses": 1,
+            "pct": 0.5
+          },
+          {
+            "position": "3",
+            "team_name": "Sweden",
+            "team_ioc": "SWE",
+            "group": "Group A",
+            "wins": 0,
+            "losses": 2,
+            "pct": 0.0
+          },
+          {
+            "position": "1",
+            "team_name": "Germany",
+            "team_ioc": "GER",
+            "group": "Group B",
+            "wins": 2,
+            "losses": 0,
+            "pct": 1.0
+          },
+          {
+            "position": "2",
+            "team_name": "Croatia",
+            "team_ioc": "CRO",
+            "group": "Group B",
+            "wins": 1,
+            "losses": 1,
+            "pct": 0.5
+          },
+          {
+            "position": "3",
+            "team_name": "Hungary",
+            "team_ioc": "HUN",
+            "group": "Group B",
+            "wins": 0,
+            "losses": 2,
+            "pct": 0.0
+          }
+        ],
+        "round_emoji": "🚀"
+      },
+      "instagram_caption": "🚀 OPENING ROUND STANDINGS 🚀\n\nOpening Round - Pool Play\n\n📊 Group A:\n🥇 1. ESP Spain (2-0)\n🥈 2. POL Poland (1-1)\n🥉 3. SWE Sweden (0-2)\n\n📊 Group B:\n🥇 1. GER Germany (2-0)\n🥈 2. CRO Croatia (1-1)\n🥉 3. HUN Hungary (0-2)\n\n📊 Group C:\n🥇 1. AUT Austria (2-0)\n🥈 2. BEL Belgium (1-1)\n🥉 3. TUR Türkiye (0-2)\n\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #OpeningRoundStandings #EuropeanChampionship #Softball2025",
+      "template_category": "Tournament Standings"
+    },
+    {
+      "template_id": "template_006",
+      "post_type": "round_standings",
+      "canva_data": {
+        "tournament_name": "2025 U 18 Womens Softball European Championship",
+        "tournament_year": "2025",
+        "post_type": "round_standings",
+        "hashtags": "",
+        "background_color": "#059669",
+        "accent_color": "#34D399",
+        "round_name": "Second Round",
+        "round_description": "Second Round - Playoff Phase",
+        "standings_text": "📊 Group E:\n🥇 1. GER Germany (1-0)\n🥈 2. GBR Great Britain (1-0)\n🥉 3. AUT Austria (1-0)\n 4. ISR Israel (0-2)\n\n📊 Group Z:\n🥇 1. CZE Czechia (1-0)\n🥇 1. ITA Italy (0-1)\n🥉 3. IRL Ireland (1-0)\n 4. NED Netherlands (1-0)\n",
+        "groups_count": 2,
+        "total_teams": 11,
+        "top_teams": [
+          {
+            "position": "1",
+            "team_name": "Germany",
+            "team_ioc": "GER",
+            "group": "Group E",
+            "wins": 1,
+            "losses": 0,
+            "pct": 1.0
+          },
+          {
+            "position": "2",
+            "team_name": "Great Britain",
+            "team_ioc": "GBR",
+            "group": "Group E",
+            "wins": 1,
+            "losses": 0,
+            "pct": 1.0
+          },
+          {
+            "position": "3",
+            "team_name": "Austria",
+            "team_ioc": "AUT",
+            "group": "Group E",
+            "wins": 1,
+            "losses": 0,
+            "pct": 1.0
+          },
+          {
+            "position": "1",
+            "team_name": "Czechia",
+            "team_ioc": "CZE",
+            "group": "Group Z",
+            "wins": 1,
+            "losses": 0,
+            "pct": 1.0
+          },
+          {
+            "position": "1",
+            "team_name": "Italy",
+            "team_ioc": "ITA",
+            "group": "Group Z",
+            "wins": 0,
+            "losses": 1,
+            "pct": 0.0
+          },
+          {
+            "position": "3",
+            "team_name": "Ireland",
+            "team_ioc": "IRL",
+            "group": "Group Z",
+            "wins": 1,
+            "losses": 0,
+            "pct": 1.0
+          }
+        ],
+        "round_emoji": "⚡"
+      },
+      "instagram_caption": "⚡ SECOND ROUND STANDINGS ⚡\n\nSecond Round - Playoff Phase\n\n📊 Group E:\n🥇 1. GER Germany (1-0)\n🥈 2. GBR Great Britain (1-0)\n🥉 3. AUT Austria (1-0)\n 4. ISR Israel (0-2)\n\n📊 Group Z:\n🥇 1. CZE Czechia (1-0)\n🥇 1. ITA Italy (0-1)\n🥉 3. IRL Ireland (1-0)\n 4. NED Netherlands (1-0)\n\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #SecondRoundStandings #EuropeanChampionship #Softball2025",
+      "template_category": "Tournament Standings"
+    },
+    {
+      "template_id": "template_007",
+      "post_type": "round_progression",
+      "canva_data": {
+        "tournament_name": "2025 U 18 Womens Softball European Championship",
+        "tournament_year": "2025",
+        "post_type": "round_progression",
+        "hashtags": "",
+        "background_color": "#7C3AED",
+        "accent_color": "#A78BFA",
+        "progressed_count": 11,
+        "progressed_teams": [
+          {
+            "team_ioc": "GER",
+            "team_name": "Germany",
+            "opening_group": "Group Y",
+            "opening_record": "2-3",
+            "second_group": "Group E",
+            "second_record": "1-0"
+          },
+          {
+            "team_ioc": "GBR",
+            "team_name": "Great Britain",
+            "opening_group": "Group X",
+            "opening_record": "1-3",
+            "second_group": "Group E",
+            "second_record": "1-0"
+          },
+          {
+            "team_ioc": "AUT",
+            "team_name": "Austria",
+            "opening_group": "Group Y",
+            "opening_record": "1-4",
+            "second_group": "Group E",
+            "second_record": "1-0"
+          },
+          {
+            "team_ioc": "ISR",
+            "team_name": "Israel",
+            "opening_group": "Group X",
+            "opening_record": "0-4",
+            "second_group": "Group E",
+            "second_record": "0-2"
+          },
+          {
+            "team_ioc": "FRA",
+            "team_name": "France",
+            "opening_group": "Group Y",
+            "opening_record": "1-4",
+            "second_group": "Group E",
+            "second_record": "0-1"
+          },
+          {
+            "team_ioc": "CZE",
+            "team_name": "Czechia",
+            "opening_group": "Group X",
+            "opening_record": "4-0",
+            "second_group": "Group Z",
+            "second_record": "1-0"
+          },
+          {
+            "team_ioc": "ITA",
+            "team_name": "Italy",
+            "opening_group": "Group Y",
+            "opening_record": "5-0",
+            "second_group": "Group Z",
+            "second_record": "0-1"
+          },
+          {
+            "team_ioc": "IRL",
+            "team_name": "Ireland",
+            "opening_group": "Group Y",
+            "opening_record": "4-1",
+            "second_group": "Group Z",
+            "second_record": "1-0"
+          }
+        ],
+        "progression_title": "Tournament Progression",
+        "progression_subtitle": "Teams advancing to next round"
+      },
+      "instagram_caption": "⚡ TOURNAMENT PROGRESSION ⚡\n\nTeams advancing from Opening Round to Second Round:\n\n🎯 GER Germany\n   Opening: Group Y (2-3)\n   Second: Group E (1-0)\n\n🎯 GBR Great Britain\n   Opening: Group X (1-3)\n   Second: Group E (1-0)\n\n🎯 AUT Austria\n   Opening: Group Y (1-4)\n   Second: Group E (1-0)\n\n🎯 ISR Israel\n   Opening: Group X (0-4)\n   Second: Group E (0-2)\n\n🎯 FRA France\n   Opening: Group Y (1-4)\n   Second: Group E (0-1)\n\n🎯 CZE Czechia\n   Opening: Group X (4-0)\n   Second: Group Z (1-0)\n\n\n\n🚀 From pool play to playoffs!\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #TournamentProgression #Playoffs #EuropeanChampionship",
+      "template_category": "Tournament Progress"
+    },
+    {
+      "template_id": "template_008",
+      "post_type": "advanced_tournament_summary",
+      "canva_data": {
+        "tournament_name": "2025 U 18 Womens Softball European Championship",
+        "tournament_year": "2025",
+        "post_type": "advanced_tournament_summary",
+        "hashtags": "",
+        "background_color": "#DC2626",
+        "accent_color": "#F87171",
+        "total_games": 63,
+        "completed_games": 52,
+        "unique_teams": 17,
+        "completion_percentage": 82.5,
+        "summary_title": "Tournament Update",
+        "summary_subtitle": "Latest statistics and highlights"
+      },
+      "instagram_caption": "🎯 TOURNAMENT SPOTLIGHT 🎯\n\n🔥 Opening Round - Undefeated: ESP Spain, GER Germany, AUT Austria\n🔥 Second Round - Undefeated: GER Germany, GBR Great Britain, AUT Austria\n\n📊 Tournament Overview:\n⚾ Total Games: 63\n✅ Completed: 52\n🏆 Teams: 17\n🚀 Rounds: 2\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #TournamentUpdate #EuropeanChampionship #Softball2025",
+      "template_category": "Tournament Summary"
+    }
+  ]
+}

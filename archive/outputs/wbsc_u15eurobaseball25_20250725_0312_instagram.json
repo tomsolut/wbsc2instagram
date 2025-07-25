@@ -1,0 +1,295 @@
+{
+  "tournament": {
+    "base_url": "https://www.wbsceurope.org/en/events/u15eurobaseball25",
+    "tournament_slug": "u15eurobaseball25",
+    "tournament_name": "U15Eurobaseball25",
+    "year": 2025
+  },
+  "generated_at": "2025-07-25T03:12:04.532380",
+  "total_posts": 3,
+  "posts": [
+    {
+      "type": "round_standings",
+      "round_name": "Round robin",
+      "round_description": "Second Round - Playoff Phase",
+      "groups_count": 2,
+      "total_teams": 8,
+      "post_caption": "⚡ ROUND ROBIN STANDINGS ⚡\n\nSecond Round - Playoff Phase\n\n📊 Group A:\n🥇 1. NED Netherlands (3-0)\n🥈 2. GER Germany (2-1)\n🥉 3. FRA France (1-2)\n 4. BEL Belgium (0-3)\n\n📊 Group B:\n🥇 1. ITA Italy (3-0)\n🥈 2. CZE Czechia (2-1)\n🥉 3. GBR Great Britain (1-2)\n 4. HUN Hungary (0-3)\n\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #RoundrobinStandings #EuropeanChampionship #Softball2025",
+      "template_data": {
+        "round_name": "Round robin",
+        "round_description": "Second Round - Playoff Phase",
+        "standings_text": "📊 Group A:\n🥇 1. NED Netherlands (3-0)\n🥈 2. GER Germany (2-1)\n🥉 3. FRA France (1-2)\n 4. BEL Belgium (0-3)\n\n📊 Group B:\n🥇 1. ITA Italy (3-0)\n🥈 2. CZE Czechia (2-1)\n🥉 3. GBR Great Britain (1-2)\n 4. HUN Hungary (0-3)\n",
+        "groups_data": [
+          [
+            "Group A",
+            [
+              {
+                "position": "1",
+                "team_name": "Netherlands",
+                "team_ioc": "NED",
+                "table_number": 1,
+                "round": "Round robin",
+                "group": "Group A",
+                "group_full_name": "Group A",
+                "statistics": {
+                  "wins": 3,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T03:12:02.512303"
+              },
+              {
+                "position": "2",
+                "team_name": "Germany",
+                "team_ioc": "GER",
+                "table_number": 1,
+                "round": "Round robin",
+                "group": "Group A",
+                "group_full_name": "Group A",
+                "statistics": {
+                  "wins": 2,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.667,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T03:12:02.512389"
+              },
+              {
+                "position": "3",
+                "team_name": "France",
+                "team_ioc": "FRA",
+                "table_number": 1,
+                "round": "Round robin",
+                "group": "Group A",
+                "group_full_name": "Group A",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 2,
+                  "ties": 0,
+                  "pct": 0.333,
+                  "gb": 2
+                },
+                "scraped_at": "2025-07-25T03:12:02.512455"
+              },
+              {
+                "position": "4",
+                "team_name": "Belgium",
+                "team_ioc": "BEL",
+                "table_number": 1,
+                "round": "Round robin",
+                "group": "Group A",
+                "group_full_name": "Group A",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 3,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 3
+                },
+                "scraped_at": "2025-07-25T03:12:02.512514"
+              }
+            ]
+          ],
+          [
+            "Group B",
+            [
+              {
+                "position": "1",
+                "team_name": "Italy",
+                "team_ioc": "ITA",
+                "table_number": 2,
+                "round": "Round robin",
+                "group": "Group B",
+                "group_full_name": "Group B",
+                "statistics": {
+                  "wins": 3,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T03:12:02.512632"
+              },
+              {
+                "position": "2",
+                "team_name": "Czechia",
+                "team_ioc": "CZE",
+                "table_number": 2,
+                "round": "Round robin",
+                "group": "Group B",
+                "group_full_name": "Group B",
+                "statistics": {
+                  "wins": 2,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.667,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T03:12:02.512690"
+              },
+              {
+                "position": "3",
+                "team_name": "Great Britain",
+                "team_ioc": "GBR",
+                "table_number": 2,
+                "round": "Round robin",
+                "group": "Group B",
+                "group_full_name": "Group B",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 2,
+                  "ties": 0,
+                  "pct": 0.333,
+                  "gb": 2
+                },
+                "scraped_at": "2025-07-25T03:12:02.512745"
+              },
+              {
+                "position": "4",
+                "team_name": "Hungary",
+                "team_ioc": "HUN",
+                "table_number": 2,
+                "round": "Round robin",
+                "group": "Group B",
+                "group_full_name": "Group B",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 3,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 3
+                },
+                "scraped_at": "2025-07-25T03:12:02.512800"
+              }
+            ]
+          ]
+        ],
+        "tournament_name": "U-18 Women's Softball European Championship 2025"
+      }
+    },
+    {
+      "type": "round_standings",
+      "round_name": "Relegation round",
+      "round_description": "Second Round - Playoff Phase",
+      "groups_count": 1,
+      "total_teams": 4,
+      "post_caption": "⚡ RELEGATION ROUND STANDINGS ⚡\n\nSecond Round - Playoff Phase\n\n📊 Relegation round:\n🥇 1. GBR Great Britain (3-0)\n🥈 2. FRA France (2-1)\n🥉 3. BEL Belgium (1-2)\n 4. HUN Hungary (0-3)\n\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #RelegationroundStandings #EuropeanChampionship #Softball2025",
+      "template_data": {
+        "round_name": "Relegation round",
+        "round_description": "Second Round - Playoff Phase",
+        "standings_text": "📊 Relegation round:\n🥇 1. GBR Great Britain (3-0)\n🥈 2. FRA France (2-1)\n🥉 3. BEL Belgium (1-2)\n 4. HUN Hungary (0-3)\n",
+        "groups_data": [
+          [
+            "Relegation round",
+            [
+              {
+                "position": "1",
+                "team_name": "Great Britain",
+                "team_ioc": "GBR",
+                "table_number": 1,
+                "round": "Relegation round",
+                "group": "Relegation round",
+                "group_full_name": "Relegation round",
+                "statistics": {
+                  "wins": 3,
+                  "losses": 0,
+                  "ties": 0,
+                  "pct": 1.0,
+                  "gb": 0
+                },
+                "scraped_at": "2025-07-25T03:12:03.520355"
+              },
+              {
+                "position": "2",
+                "team_name": "France",
+                "team_ioc": "FRA",
+                "table_number": 1,
+                "round": "Relegation round",
+                "group": "Relegation round",
+                "group_full_name": "Relegation round",
+                "statistics": {
+                  "wins": 2,
+                  "losses": 1,
+                  "ties": 0,
+                  "pct": 0.667,
+                  "gb": 1
+                },
+                "scraped_at": "2025-07-25T03:12:03.520506"
+              },
+              {
+                "position": "3",
+                "team_name": "Belgium",
+                "team_ioc": "BEL",
+                "table_number": 1,
+                "round": "Relegation round",
+                "group": "Relegation round",
+                "group_full_name": "Relegation round",
+                "statistics": {
+                  "wins": 1,
+                  "losses": 2,
+                  "ties": 0,
+                  "pct": 0.333,
+                  "gb": 2
+                },
+                "scraped_at": "2025-07-25T03:12:03.520645"
+              },
+              {
+                "position": "4",
+                "team_name": "Hungary",
+                "team_ioc": "HUN",
+                "table_number": 1,
+                "round": "Relegation round",
+                "group": "Relegation round",
+                "group_full_name": "Relegation round",
+                "statistics": {
+                  "wins": 0,
+                  "losses": 3,
+                  "ties": 0,
+                  "pct": 0.0,
+                  "gb": 3
+                },
+                "scraped_at": "2025-07-25T03:12:03.520770"
+              }
+            ]
+          ]
+        ],
+        "tournament_name": "U-18 Women's Softball European Championship 2025"
+      }
+    },
+    {
+      "type": "advanced_tournament_summary",
+      "post_caption": "🎯 TOURNAMENT SPOTLIGHT 🎯\n\n🔥 Round robin - Undefeated: NED Netherlands, ITA Italy\n🔥 Relegation round - Undefeated: GBR Great Britain\n\n📊 Tournament Overview:\n⚾ Total Games: 20\n✅ Completed: 20\n🏆 Teams: 8\n🚀 Rounds: 2\n\n🏆 U-18 Women's Softball European Championship 2025\n\n#SoftballEurope #U18Womens #WBSC #TournamentUpdate #EuropeanChampionship #Softball2025",
+      "template_data": {
+        "round_leaders": {
+          "Round robin": {
+            "undefeated": [
+              "NED Netherlands",
+              "ITA Italy"
+            ],
+            "top_performers": []
+          },
+          "Relegation round": {
+            "undefeated": [
+              "GBR Great Britain"
+            ],
+            "top_performers": []
+          }
+        },
+        "tournament_stats": {
+          "total_games": 20,
+          "completed_games": 20,
+          "rounds": [
+            "Round robin",
+            "Relegation round"
+          ],
+          "total_standings_entries": 12,
+          "unique_teams": 8
+        },
+        "tournament_name": "U-18 Women's Softball European Championship 2025"
+      }
+    }
+  ]
+}

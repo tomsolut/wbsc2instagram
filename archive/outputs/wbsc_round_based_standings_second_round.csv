@@ -1,0 +1,12 @@
+position,team_name,team_ioc,table_number,round,group,group_full_name,scraped_at,stat_wins,stat_losses,stat_ties,stat_pct,stat_gb
+1,Germany,GER,1,Second Round,Group E,Group E,2025-07-25T03:03:10.486859,1,0,0,1.0,0.0
+2,Great Britain,GBR,1,Second Round,Group E,Group E,2025-07-25T03:03:10.486958,1,0,0,1.0,0.0
+3,Austria,AUT,1,Second Round,Group E,Group E,2025-07-25T03:03:10.487029,1,0,0,1.0,0.0
+4,Israel,ISR,1,Second Round,Group E,Group E,2025-07-25T03:03:10.487098,0,2,0,0.0,1.5
+5,France,FRA,1,Second Round,Group E,Group E,2025-07-25T03:03:10.487163,0,1,0,0.0,1.0
+1,Czechia,CZE,2,Second Round,Group Z,Group Z,2025-07-25T03:03:10.487306,1,0,0,1.0,0.0
+1,Italy,ITA,2,Second Round,Group Z,Group Z,2025-07-25T03:03:10.487388,0,1,0,0.0,1.0
+3,Ireland,IRL,2,Second Round,Group Z,Group Z,2025-07-25T03:03:10.487468,1,0,0,1.0,0.0
+4,Netherlands,NED,2,Second Round,Group Z,Group Z,2025-07-25T03:03:10.487546,1,0,0,1.0,0.0
+5,Spain,ESP,2,Second Round,Group Z,Group Z,2025-07-25T03:03:10.487621,0,1,0,0.0,1.0
+6,Ukraine,UKR,2,Second Round,Group Z,Group Z,2025-07-25T03:03:10.487697,0,1,0,0.0,1.0
