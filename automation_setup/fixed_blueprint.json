@@ -1,0 +1,511 @@
+{
+    "name": "Integration Webhooks - Fixed",
+    "flow": [
+        {
+            "id": 1,
+            "module": "gateway:CustomWebHook",
+            "version": 1,
+            "parameters": {
+                "hook": 2867209,
+                "maxResults": 1
+            },
+            "mapper": {},
+            "metadata": {
+                "designer": {
+                    "x": -775,
+                    "y": 1816
+                },
+                "restore": {
+                    "parameters": {
+                        "hook": {
+                            "data": {
+                                "editable": "true"
+                            },
+                            "label": "My gateway-webhook webhook"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "hook",
+                        "type": "hook:gateway-webhook",
+                        "label": "Webhook",
+                        "required": true
+                    },
+                    {
+                        "name": "maxResults",
+                        "type": "number",
+                        "label": "Maximum number of results"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "module": "json:ParseJSON",
+            "version": 1,
+            "parameters": {
+                "type": ""
+            },
+            "mapper": {
+                "json": "{{1.data}}"
+            },
+            "metadata": {
+                "designer": {
+                    "x": -175,
+                    "y": 1516
+                },
+                "restore": {
+                    "parameters": {
+                        "type": {
+                            "label": "Choose a data structure"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "type",
+                        "type": "udt",
+                        "label": "Data structure"
+                    }
+                ],
+                "expect": [
+                    {
+                        "name": "json",
+                        "type": "text",
+                        "label": "JSON string",
+                        "required": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "module": "builtin:BasicFeeder",
+            "version": 1,
+            "parameters": {},
+            "mapper": {
+                "array": "{{2.posts}}"
+            },
+            "metadata": {
+                "designer": {
+                    "x": 600,
+                    "y": 1350
+                },
+                "restore": {
+                    "expect": {
+                        "array": {
+                            "mode": "edit"
+                        }
+                    }
+                },
+                "expect": [
+                    {
+                        "mode": "edit",
+                        "name": "array",
+                        "spec": [],
+                        "type": "array",
+                        "label": "Array"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "module": "builtin:BasicRouter",
+            "version": 1,
+            "mapper": null,
+            "metadata": {
+                "designer": {
+                    "x": 900,
+                    "y": 1200
+                }
+            },
+            "routes": [
+                {
+                    "flow": [
+                        {
+                            "id": 5,
+                            "module": "bannerbear:CreateImage",
+                            "version": 1,
+                            "parameters": {
+                                "__IMTCONN__": 10295646
+                            },
+                            "mapper": {
+                                "template": "nxOjMA5gQa33bprE63",
+                                "modifications": [
+                                    {
+                                        "name": "round_name",
+                                        "text": "{{3.template_data.round_name}}"
+                                    },
+                                    {
+                                        "name": "tournament_name",
+                                        "text": "{{2.tournament.tournament_name}}"
+                                    },
+                                    {
+                                        "name": "standings_text",
+                                        "text": "{{3.template_data.standings_text}}"
+                                    }
+                                ]
+                            },
+                            "metadata": {
+                                "designer": {
+                                    "x": 1200,
+                                    "y": 1050
+                                },
+                                "restore": {
+                                    "expect": {
+                                        "template": {
+                                            "mode": "chose",
+                                            "label": "WBSC2INSTA Test"
+                                        },
+                                        "render_pdf": {
+                                            "mode": "chose"
+                                        },
+                                        "transparent": {
+                                            "mode": "chose"
+                                        },
+                                        "modifications": {
+                                            "mode": "edit"
+                                        }
+                                    },
+                                    "parameters": {
+                                        "__IMTCONN__": {
+                                            "data": {
+                                                "scoped": "true",
+                                                "connection": "bannerbear"
+                                            },
+                                            "label": "My Bannerbear connection (My First Project)"
+                                        }
+                                    }
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "__IMTCONN__",
+                                        "type": "account:bannerbear",
+                                        "label": "Connection",
+                                        "required": true
+                                    }
+                                ],
+                                "expect": [
+                                    {
+                                        "name": "template",
+                                        "type": "select",
+                                        "label": "Template UID",
+                                        "required": true
+                                    },
+                                    {
+                                        "name": "modifications",
+                                        "spec": [
+                                            {
+                                                "name": "name",
+                                                "type": "text",
+                                                "label": "Name",
+                                                "required": true
+                                            },
+                                            {
+                                                "name": "text",
+                                                "type": "text",
+                                                "label": "Text"
+                                            }
+                                        ],
+                                        "type": "array",
+                                        "label": "Modifications",
+                                        "required": true
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "module": "dropbox:ActionUploadFile",
+                            "version": 4,
+                            "parameters": {
+                                "account": 3242267
+                            },
+                            "mapper": {
+                                "data": "{{5.image_url}}",
+                                "folder": "/[3] projects/wbsc2insta",
+                                "fileName": "standings_{{formatDate(now; \"YYYYMMDD_HHmmss\")}}.png",
+                                "overwrite": false
+                            },
+                            "metadata": {
+                                "designer": {
+                                    "x": 1800,
+                                    "y": 900
+                                },
+                                "restore": {
+                                    "expect": {
+                                        "folder": {
+                                            "mode": "chose",
+                                            "path": [
+                                                "[3] Projects",
+                                                "WBSC2INSTA"
+                                            ]
+                                        },
+                                        "overwrite": {
+                                            "mode": "chose"
+                                        }
+                                    },
+                                    "parameters": {
+                                        "account": {
+                                            "data": {
+                                                "scoped": "true",
+                                                "connection": "dropbox"
+                                            },
+                                            "label": "My Dropbox connection (tb@tomsolut.de)"
+                                        }
+                                    }
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "account",
+                                        "type": "account:dropbox",
+                                        "label": "Connection",
+                                        "required": true
+                                    }
+                                ],
+                                "expect": [
+                                    {
+                                        "name": "folder",
+                                        "type": "folder",
+                                        "label": "Folder",
+                                        "required": true
+                                    },
+                                    {
+                                        "name": "fileName",
+                                        "type": "filename",
+                                        "label": "File name",
+                                        "required": true
+                                    },
+                                    {
+                                        "name": "data",
+                                        "type": "buffer",
+                                        "label": "Data",
+                                        "required": true
+                                    },
+                                    {
+                                        "name": "overwrite",
+                                        "type": "boolean",
+                                        "label": "Overwrite an existing file",
+                                        "required": true
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "flow": [
+                        {
+                            "id": 7,
+                            "module": "bannerbear:CreateImage",
+                            "version": 1,
+                            "parameters": {
+                                "__IMTCONN__": 10295646
+                            },
+                            "mapper": {
+                                "template": "nxOjMA5gQa33bprE63",
+                                "modifications": [
+                                    {
+                                        "name": "winner_team",
+                                        "text": "{{3.template_data.winner_team}}"
+                                    },
+                                    {
+                                        "name": "winner_score",
+                                        "text": "{{3.template_data.winner_score}}"
+                                    },
+                                    {
+                                        "name": "loser_team",
+                                        "text": "{{3.template_data.loser_team}}"
+                                    },
+                                    {
+                                        "name": "loser_score",
+                                        "text": "{{3.template_data.loser_score}}"
+                                    },
+                                    {
+                                        "name": "venue",
+                                        "text": "{{3.template_data.venue}}"
+                                    },
+                                    {
+                                        "name": "date",
+                                        "text": "{{3.template_data.date}}"
+                                    },
+                                    {
+                                        "name": "tournament_name",
+                                        "text": "{{2.tournament.tournament_name}}"
+                                    }
+                                ]
+                            },
+                            "metadata": {
+                                "designer": {
+                                    "x": 1200,
+                                    "y": 1350
+                                },
+                                "restore": {
+                                    "expect": {
+                                        "template": {
+                                            "mode": "chose",
+                                            "label": "WBSC2INSTA Test"
+                                        },
+                                        "render_pdf": {
+                                            "mode": "chose"
+                                        },
+                                        "transparent": {
+                                            "mode": "chose"
+                                        },
+                                        "modifications": {
+                                            "mode": "edit"
+                                        }
+                                    },
+                                    "parameters": {
+                                        "__IMTCONN__": {
+                                            "data": {
+                                                "scoped": "true",
+                                                "connection": "bannerbear"
+                                            },
+                                            "label": "My Bannerbear connection (My First Project)"
+                                        }
+                                    }
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "__IMTCONN__",
+                                        "type": "account:bannerbear",
+                                        "label": "Connection",
+                                        "required": true
+                                    }
+                                ],
+                                "expect": [
+                                    {
+                                        "name": "template",
+                                        "type": "select",
+                                        "label": "Template UID",
+                                        "required": true
+                                    },
+                                    {
+                                        "name": "modifications",
+                                        "spec": [
+                                            {
+                                                "name": "name",
+                                                "type": "text",
+                                                "label": "Name",
+                                                "required": true
+                                            },
+                                            {
+                                                "name": "text",
+                                                "type": "text",
+                                                "label": "Text"
+                                            }
+                                        ],
+                                        "type": "array",
+                                        "label": "Modifications",
+                                        "required": true
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 8,
+                            "module": "dropbox:ActionUploadFile",
+                            "version": 4,
+                            "parameters": {
+                                "account": 3242267
+                            },
+                            "mapper": {
+                                "data": "{{7.image_url}}",
+                                "folder": "/[3] projects/wbsc2insta",
+                                "fileName": "game_result_{{formatDate(now; \"YYYYMMDD_HHmmss\")}}.png",
+                                "overwrite": false
+                            },
+                            "metadata": {
+                                "designer": {
+                                    "x": 1579,
+                                    "y": 1924
+                                },
+                                "restore": {
+                                    "expect": {
+                                        "folder": {
+                                            "mode": "chose",
+                                            "path": [
+                                                "[3] Projects",
+                                                "WBSC2INSTA"
+                                            ]
+                                        },
+                                        "overwrite": {
+                                            "mode": "chose"
+                                        }
+                                    },
+                                    "parameters": {
+                                        "account": {
+                                            "data": {
+                                                "scoped": "true",
+                                                "connection": "dropbox"
+                                            },
+                                            "label": "My Dropbox connection (tb@tomsolut.de)"
+                                        }
+                                    }
+                                },
+                                "parameters": [
+                                    {
+                                        "name": "account",
+                                        "type": "account:dropbox",
+                                        "label": "Connection",
+                                        "required": true
+                                    }
+                                ],
+                                "expect": [
+                                    {
+                                        "name": "folder",
+                                        "type": "folder",
+                                        "label": "Folder",
+                                        "required": true
+                                    },
+                                    {
+                                        "name": "fileName",
+                                        "type": "filename",
+                                        "label": "File name",
+                                        "required": true
+                                    },
+                                    {
+                                        "name": "data",
+                                        "type": "buffer",
+                                        "label": "Data",
+                                        "required": true
+                                    },
+                                    {
+                                        "name": "overwrite",
+                                        "type": "boolean",
+                                        "label": "Overwrite an existing file",
+                                        "required": true
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "instant": true,
+        "version": 1,
+        "scenario": {
+            "roundtrips": 1,
+            "maxErrors": 3,
+            "autoCommit": true,
+            "autoCommitTriggerLast": true,
+            "sequential": false,
+            "slots": null,
+            "confidential": false,
+            "dataloss": false,
+            "dlq": false,
+            "freshVariables": false
+        },
+        "designer": {
+            "orphans": []
+        },
+        "zone": "eu2.make.com",
+        "notes": []
+    }
+}

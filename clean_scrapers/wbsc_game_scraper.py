@@ -243,7 +243,7 @@ class WBSCTournamentScraper:
             # Clean tournament name for folder
             clean_tournament_name = tournament_name.replace('-', '_').replace(' ', '_')
             folder_name = f"{current_date}_{clean_tournament_name}"
-            output_path = f"outputs/{folder_name}/games_{timestamp}"
+            output_path = f"../outputs/{folder_name}/games_{timestamp}"
         
         # Create output directory
         os.makedirs(os.path.dirname(output_path), exist_ok=True)

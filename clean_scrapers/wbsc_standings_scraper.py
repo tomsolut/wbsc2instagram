@@ -440,7 +440,7 @@ class WBSCRoundBasedStandingsScraper:
             # Clean tournament name for folder
             clean_tournament_name = tournament_name.replace('-', '_').replace(' ', '_')
             folder_name = f"{current_date}_{clean_tournament_name}"
-            output_path = f"outputs/{folder_name}/standings_{timestamp}"
+            output_path = f"../outputs/{folder_name}/standings_{timestamp}"
         
         # Create output directory
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -651,7 +651,7 @@ if __name__ == "__main__":
             timestamp_now = datetime.now().strftime('%H%M%S')
             clean_tournament_name = tournament_name.replace('-', '_').replace(' ', '_')
             folder_name = f"{current_date}_{clean_tournament_name}"
-            output_path = f"outputs/{folder_name}/complete_{timestamp_now}"
+            output_path = f"../outputs/{folder_name}/complete_{timestamp_now}"
         
         # Create output directory
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
